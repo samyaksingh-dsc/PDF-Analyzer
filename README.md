@@ -18,7 +18,7 @@ A Streamlit web application that analyzes PDF documents using Google's Gemini AI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf-analyzer.git
+git clone https://github.com/samyaksingh-dsc/pdf-analyzer.git
 cd pdf-analyzer
 ```
 
